@@ -5049,7 +5049,7 @@ video {
   --tw-rotate: 45deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  background-color: ;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   content: var(--tw-content);
@@ -5066,7 +5066,7 @@ video {
   --tw-rotate: 45deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  background-color:;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   content: var(--tw-content);
@@ -5075,7 +5075,7 @@ video {
 
 .home-two-btn-bg:hover {
   --tw-text-opacity: 1;
-  color: rgb(93 81 242 / var(--tw-text-opacity));
+  color: #84cc16;
 }
 
 .home-two-btn-bg:hover::before {
@@ -5147,7 +5147,7 @@ video {
 }
 
 .h2-testimonial-pagination > .swiper-pagination-bullet {
-  background-color: rgb(93 81 242 / 0.7);
+  background-color:#84cc16;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 200ms;
@@ -5155,11 +5155,11 @@ video {
 
 .h2-testimonial-pagination > .swiper-pagination-bullet-active {
   --tw-bg-opacity: 1;
-  background-color: rgb(93 81 242 / var(--tw-bg-opacity));
+  background-color: #84cc16;
 }
 
 .h3-testimonial-pagination > .swiper-pagination-bullet {
-  background-color: rgb(121 74 255 / 0.7);
+  background-color:#84cc16;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 200ms;
@@ -5167,7 +5167,7 @@ video {
 
 .h3-testimonial-pagination > .swiper-pagination-bullet-active {
   --tw-bg-opacity: 1;
-  background-color: rgb(121 74 255 / var(--tw-bg-opacity));
+  background-color: #84cc16;
 }
 
 .btn-gradient {
