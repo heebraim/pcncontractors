@@ -21,6 +21,7 @@ h6 {
 .theme-container {
   max-width: 1330px;
   padding: 0 20px;
+
 }
 .shadow-style-one {
   box-shadow: 0px 10px 60px 0px rgba(199, 244, 100);
@@ -1685,4 +1686,18 @@ h6 {
 }
 .nav-shadow-3 {
   box-shadow: rgba(255, 255, 255, 0.05) 0px 8px 24px;
+}
+
+footer .theme-container{
+  background-color: #84cc16;
+  
+}
+footer .theme-container a{
+  color:white;
+  
+}
+footer .theme-container p{
+  color:black;
+  
+  
 }
